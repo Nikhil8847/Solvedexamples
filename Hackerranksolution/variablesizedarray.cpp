@@ -29,7 +29,7 @@ int main()
     }
   }
   int r,s;
-  for(k = 1;  k<= q; k++) // i.e. k is increasing in the constraint q 
+  for(int k = 1;  k<= q; k++) // i.e. k is increasing in the constraint q 
   {
     cin>> r>> s;
     cout<< arr[r][s] << endl;  // it is behaving like multidimensional array where r is row and s in column
