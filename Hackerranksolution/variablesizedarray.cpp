@@ -6,6 +6,10 @@ i varies from 0 to value of n/
 j varies from 0 to value of k*/
 
 #include<iostream>
+#include<vector>
+#include<algorithm>
+#include<cmath>
+#include<cstdio>
 using namespace std;
 int main()
 {
