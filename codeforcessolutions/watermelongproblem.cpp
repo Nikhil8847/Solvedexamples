@@ -1,5 +1,5 @@
 // In this video we will solve the watermelong codeforces problem in the simples way
-#include<iostream>// I am sorry std namespace is left
+#include<iostream>
 using namespace std;
 int main()
 {
